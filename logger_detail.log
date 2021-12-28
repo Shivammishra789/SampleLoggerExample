@@ -1,0 +1,6 @@
+INFO : root : 2021-12-28 22:59:53,151 : started execution
+ERROR : root : 2021-12-28 22:59:53,151 : value is less than 12
+INFO : root : 2021-12-28 23:00:41,854 : started execution
+INFO : root : 2021-12-28 23:00:54,436 : started execution
+WARNING : root : 2021-12-28 23:00:54,437 : value is 12
+CRITICAL : root : 2021-12-28 23:00:54,437 : Terminating program
